@@ -1,1 +1,2 @@
-Some interesting stuff here
+Some interesting stuff here.
+I am getting familiar with git commands.
