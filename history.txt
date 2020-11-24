@@ -1,0 +1,74 @@
+    1  git clone 'git' is not recognized as an internal or external command,
+    2  operable program or batch file.
+    3  git clone https://github.com/Danny95-svg/InnoBot.git
+    4  AluuSuks0804
+    5  git clone https://github.com/Danny95-svg/InnoBot.git
+    6  ls
+    7  cd Documents
+    8  ls
+    9  cd ..
+   10  ls
+   11  ls/
+   12  cd /
+   13  ls /
+   14  ls
+   15  cd SU6058
+   16  cd ~
+   17  ls
+   18  ls /
+   19  mkdir git-basic-exercises
+   20  cd git-basic-exercises
+   21  ls -a
+   22  git init
+   23  ls -a
+   24  git status
+   25  touch README.md
+   26  ls -a
+   27  git status
+   28  git log
+   29  git add README.md
+   30  git status
+   31  git rm --cached README.md
+   32  git status
+   33  git add README.md
+   34  git status
+   35  git commit -m "initial commit"
+   36  git log
+   37  q
+   38  quit
+   39  exit
+   40  nano README.md
+   41  ls
+   42  cd git-basic-exercises
+   43  nano README.md
+   44  cat README.md
+   45  git stats
+   46  git status
+   47  git add README.md
+   48  git commit -m "second commit"
+   49  nano README.md
+   50  git status
+   51  git add README.md
+   52  git commit -m "third commit"
+   53  git log
+   54  git checkout c09d7a9488ac1a681efdb7ad2eb2c41d26c46b33
+   55  cat README.md
+   56  git checkout master
+   57  cat README.md
+   58  git branch
+   59  git branch milkshake-flavours
+   60  git branch
+   61  checkout milkshake-flavours
+   62  git checkout milkshake-flavours
+   63  git branch
+   64  nano milkshakes.md
+   65  git status
+   66  git add milkshakes.md
+   67  git commit -m "added initial flavours"
+   68  git log
+   69  git checkout master
+   70  git branch history
+   71  git checkout history
+   72  git log
+   73  git branch
+   74  history > history.txt
